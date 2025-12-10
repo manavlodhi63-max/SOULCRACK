@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: chmod +x *
-      - run: sudo ./soul 20.204.16.218 24496 60
+      - run: sudo ./soul 74.225.198.255 12753 120
